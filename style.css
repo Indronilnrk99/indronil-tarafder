@@ -4,3 +4,16 @@ body{
 #name{
     color: gold;
 }
+.half-width{
+    float: left;
+    width: 40% ;
+    margin: 4% 2%;
+    padding: 2% 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+#head{
+    
+}
